@@ -1,7 +1,10 @@
 # ALU-Units-in-Verilog
 
 This repository contains various ALU units implemented in Verilog, covering floating-point and integer operations. Below is the list of modules available in this repository along with their respective links.
+
+
 ![Float_example svg](https://github.com/user-attachments/assets/9a56038c-be82-4b91-85c4-e7bdfd308393)
+
 
 ### Repository Files
 
