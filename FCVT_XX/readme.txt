@@ -1,5 +1,5 @@
 Bu modül, bir IEEE 754 formatında tek hassasiyetli (single-precision) kayan nokta sayısını, işaretsiz veya işaretli bir tamsayıya ya da tersi bir şekilde dönüştürür. Hangi dönüşümün yapılacağı conv_type_i girişi ile belirlenir.
-
+https://en.wikipedia.org/wiki/Single-precision_floating-point_format#/media/File:Float_example.svg
 Girdiler
 a_i: 32-bit'lik giriş değeri (kayan nokta veya tamsayı).
 op_signed_i: Girdi veya çıktı tamsayının işaretli (signed) olup olmadığını belirler.
